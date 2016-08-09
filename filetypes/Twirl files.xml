@@ -14,4 +14,7 @@
     <keywords keywords="case;class;def;for;import;match;object;val;var" ignore_case="false" />
     <keywords2 keywords="@" />
   </highlighting>
+  <extensionMap>
+    <mapping pattern="*.scala.html" />
+  </extensionMap>
 </filetype>
